@@ -1,4 +1,3 @@
-```php id="nq7vma"
 <?php
 require_once __DIR__ . '/../includes/bootstrap.php';
 
@@ -174,4 +173,3 @@ setTimeout(() => {
 
 </body>
 </html>
-```

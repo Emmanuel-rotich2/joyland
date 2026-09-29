@@ -1,4 +1,4 @@
-```html
+
 <footer class="text-center py-3">
 
     <p class="mb-1">
@@ -17,4 +17,3 @@
     </p>
 
 </footer>
-```
