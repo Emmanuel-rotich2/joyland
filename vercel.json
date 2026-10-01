@@ -3,17 +3,7 @@
   "functions": {
     "api/index.php": {
       "runtime": "vercel-php@0.9.0",
-      "includeFiles": [
-        "index.php",
-        "auth/**/*.php",
-        "member/**/*.php",
-        "staff/**/*.php",
-        "api/**/*.php",
-        "includes/**/*.php",
-        "config/**/*.php",
-        "assets/**/*",
-        "manifest.webmanifest"
-      ]
+      "includeFiles": "{index.php,auth/**/*.php,member/**/*.php,staff/**/*.php,api/**/*.php,includes/**/*.php,config/**/*.php,assets/**/*,manifest.webmanifest}"
     }
   },
   "routes": [
