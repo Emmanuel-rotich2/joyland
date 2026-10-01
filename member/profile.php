@@ -7,7 +7,7 @@
                         class="bi bi-list"></i></button>
                 <div>
                     <h1>My Profile</h1>
-                    <p>Manage your member information.</p>
+                    <p>Manage your information.</p>
                 </div>
             </div>
         </header>
