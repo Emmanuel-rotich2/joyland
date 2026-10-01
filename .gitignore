@@ -1,0 +1,22 @@
+# PHP / app generated files
+storage/*
+!storage/.gitkeep
+
+# Local environment/config
+.env
+.env.*
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Logs
+*.log
+
+# Composer / dependencies
+vendor/
+
+# Temporary files
+*.tmp
+*.swp
